@@ -1,1 +1,3 @@
+#cnpm install
 
+#npm start
