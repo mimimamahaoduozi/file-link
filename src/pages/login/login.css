@@ -1,0 +1,22 @@
+.content{
+    /* width: 40%; */
+    /* margin: 0 auto; */
+    padding-top: 300px;
+}
+.content h1{
+    text-align: center;
+}
+.content .login-form {
+    margin:0 auto;
+    max-width: 400px;
+    padding: 30px 50px;
+    /* border: solid 2px rgb(133, 131, 131); */
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+  }
+  .content .login-form-forgot {
+    float: right;
+  }
+  .content .login-form-button {
+    width: 100%;
+  }
